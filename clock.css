@@ -1,0 +1,20 @@
+.clock__container {
+    margin-top: 90px;
+    width: 40%;
+    border: 3px dashed #00EDFF;
+    border-radius: 2%;
+}
+
+#clock {
+    font-family: 'Orbitron', sans-serif;
+    color: #00EDFF;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.clock__text {
+    color: #00EDFF;
+    text-align: center;
+    font-size: 30px;
+}

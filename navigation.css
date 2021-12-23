@@ -1,0 +1,13 @@
+
+.main-navbar {
+    border-bottom: 3px solid #00EDFF;
+    height: 70px;
+    position: fixed;
+    width: 80%;
+    background-color: #061731;
+}
+
+.navbar-title {
+    color: white;
+    font-size: 20px;
+}
